@@ -17,6 +17,7 @@ Works in Progress
 --
 
 {% [Predicting Forecaster Inattention](http://williambennettecon.github.io/files/Bennett_2022_Predicting_Forecaster_Inattention.pdf) %}
+
 Predicting Forecaster Inattention
 
 Optimal Income Tax Progressivity over the Business Cycle
