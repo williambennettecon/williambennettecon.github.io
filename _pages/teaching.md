@@ -13,7 +13,7 @@ University of Houston
 ### Instructor
 
 Undergraduate Classes
-- TBA (Summer 2023)
+- Intermediate Macroeconomics (Fall 2023)
 
 ### Teaching Assistant
 
@@ -23,7 +23,7 @@ Ph.D. Classes
 - Macroeconomic Theory I (Fall 2021)
 
 Undergraduate Classes
-- TBA (Spring 2023)
+- Energy Economics (Spring 2024)
 - Money and Banking (Fall 2020, Spring 2021)
 - Principles of Macroeconomics (Fall 2020, Spring 2021)
 
