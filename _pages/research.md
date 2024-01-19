@@ -17,6 +17,5 @@ Works in Progress
 --
 
 Predicting Forecaster Inattention
---
 
 Optimal Income Tax Progressivity over the Business Cycle
