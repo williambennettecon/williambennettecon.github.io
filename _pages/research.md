@@ -16,6 +16,6 @@ Recommended citation: Atici, F.M. and Bennett, W.R. (2021) 'A study on discrete 
 Works in Progress
 --
 
-Predicting Forecaster Inattention
+Predicting forecaster inattention
 
-Optimal Income Tax Progressivity over the Business Cycle
+Optimal income tax progressivity over the business cycle
