@@ -1,6 +1,7 @@
 ---
 permalink: /
-title:
+title: "About Me"
+browser_title: "William Bennett"
 excerpt: ""
 author_profile: true
 redirect_from: 
