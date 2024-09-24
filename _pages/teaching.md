@@ -23,7 +23,8 @@ Ph.D. Classes
 - Macroeconomic Theory I (Fall 2021)
 
 Undergraduate Classes
-- Intermediate Macroeconomics (Fall 2024)
+- Intermediate Macroeconomics (Spring 2023, Fall 2024)
+- Monetary Economics (Spring 2024)
 - Energy Economics (Spring 2024)
 - Money and Banking (Fall 2020, Spring 2021)
 - Principles of Macroeconomics (Fall 2020, Spring 2021)
