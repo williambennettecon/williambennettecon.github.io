@@ -24,7 +24,7 @@ Published Papers
 --
 
 ["A study on discrete Ponzi Scheme model through Sturm-Liouville theory"](http://williambennettecon.github.io/files/Atici_Bennett_2021_A_study_on_discrete_Ponzi_Scheme_model_through_Sturm-Liouville_theory.pdf) <br>
-Recommended citation: Atici, F.M. and Bennett, W.R. (2021) 'A study on discrete Ponzi Scheme model through Sturm-Liouville theory', Int. J. Dynamical Systems and Differential Equations, Vol. 11, Nos. 3/4, pp. 227-240.
+Recommended citation: Atici, F.M. and Bennett, W.R. (2021) "A study on discrete Ponzi Scheme model through Sturm-Liouville theory", Int. J. Dynamical Systems and Differential Equations, Vol. 11, Nos. 3/4, pp. 227-240.
 <p style="margin-left: 40px; margin-right: 40px; text-align: justify;  font-size: 90%;">
 <strong>Abstract:</strong> <em>In this paper, we introduce a second order self-adjoint difference equation which describes the dynamics of Ponzi schemes: a type of investment fraud that promises more than it can deliver. We use the Sturm-Liouville theory to study the discrete equation with boundary conditions. The model is based on a promised, unrealistic interest rate $r_p$, a realised nominal interest rate $r_n$, a growth rate of the deposits $r_i$, and a withdrawal rate $r_w$. Giving some restrictions on the rates $r_p$, $r_i$, and $r_w$, we prove some theorems to when the fund will collapse or be solvent. Two examples are given to illustrate the applicability of the main results.</em>
 </p>
