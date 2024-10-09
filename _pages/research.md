@@ -16,6 +16,9 @@ Predicting forecaster inattention
 </p>
 
 Optimal income tax progressivity over the business cycle
+<p style="margin-left: 40px; margin-right: 40px; text-align: justify;  font-size: 90%;">
+<strong>Abstract:</strong> <em>I study optimal progressive income taxation in an incomplete-markets model with aggregate state-dependent skewed idiosyncratic income risk and a two-state regime switching process for aggregate productivity. A Ramsey planner is constrained to two log-linear tax and transfer functions, one for each aggregate state, to allow state-dependent progressivity. I take recent computational techniques used for aggregate MIT shocks and adapt them to work for regime switching processes. I find that the negative skewness of income risk during recessions leads to higher optimal progressivity than the less-skewed risk in expansions. I also find that the welfare difference from optimal policy between an income process that incorporates skewness and a misspecified process that does not can be upward of 30%.</em>
+</p>
 
 Published Papers
 --
