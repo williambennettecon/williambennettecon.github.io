@@ -7,15 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-Works in Progress
+Working Papers
 --
 
-"Predicting forecaster inattention"
+["Predicting forecaster inattention"](http://williambennettecon.github.io/files/Bennett_2025_Predicting_forecaster_inattention.pdf) 
 <p style="margin-left: 40px; margin-right: 40px; text-align: justify;  font-size: 90%;">
-<strong>Abstract:</strong> <em>I provide new estimates of forecaster inattention and information rigidity related to the sticky information model. While most papers use aggregate-level regressions or model calibrations to estimate the amount of information rigidity, I employ a more granular estimation strategy using micro-level data from the US Survey of Professional Forecasters. I provide evidence that the true amount of forecaster inattention is much smaller than previously thought. I also document novel state-dependence and time series facts. My results imply that some other, stronger source of information rigidity must exist to account for the discrepancy between the aggregate- and micro-level results. A model accounting for information rigidity should not use sticky information as its only nor main mechanism, as doing so could result in incorrect model predictions..</em>
+<strong>Abstract:</strong> <em>I provide new estimates of forecaster inattention and information rigidity related to the sticky information model of expectation formation. While most papers use aggregate-level regressions or model calibrations to estimate the amount of information rigidity, I employ a more granular estimation strategy using micro-level data from the US Survey of Professional Forecasters (SPF). I provide evidence that the true amount of forecaster inattention is much smaller than previously thought. I also document novel state-dependence and time series facts. My results imply that some other, stronger source of information rigidity must exist to account for the discrepancy between the aggregate- and micro-level results. A model accounting for information rigidity should not use sticky information as neither its only nor main mechanism, as doing so could result in incorrect model predictions.</em>
 </p>
 
-"Optimal income tax progressivity over the business cycle"
+["Optimal progressive income taxation for skewed business cycles"](http://williambennettecon.github.io/files/Bennett_2025_Optimal_progressive_income_taxation_for_skewed_business_cycles.pdf) 
 <p style="margin-left: 40px; margin-right: 40px; text-align: justify;  font-size: 90%;">
 <strong>Abstract:</strong> <em>I study optimal progressive income taxation in an incomplete markets model with a fat-tailed idiosyncratic income growth process of varying skewness. The process follows a two-state regime switching process representing recession and expansion. A Ramsey planner is constrained to two log-linear tax and transfer functions, one for each aggregate state, to allow state-dependent tax progressivity. I take recently created computational techniques used for aggregate MIT shocks and adapt them to work for regime switching processes. I find that the overall negative skewness of income growth leads to higher optimal progressivity overall, but how it is spread between aggregate states barely matters. I also find that progressivity should be significantly higher in economic expansions than in recessions. I find that the welfare change from current to optimal policy in a misspecified model without skewed and fat-tailed income growth is inflated to 2.9% compared to 0.9% using the correctly specified model.</em>
 </p>
