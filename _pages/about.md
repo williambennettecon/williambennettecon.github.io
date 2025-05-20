@@ -9,4 +9,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website. I am an Economics Ph.D. candidate at the [University of Houston](https://www.uh.edu/class/economics/graduate/job-candidates/). My academic interests include time series econometrics, macroeconomics, and behavioral economics. If you would like to contact me, please email me at wrbennett@uh.edu.
+Welcome to my academic website. I am a recently graduated Economics Ph.D. student from the [University of Houston](https://www.uh.edu/class/economics/graduate/job-candidates/). My academic interests include time series econometrics, macroeconomics, and behavioral economics. If you would like to contact me, please email me at wrbennett@uh.edu.
